@@ -1,0 +1,16 @@
+================================================================ 
+Produto: Lâmpada 1 polo: R$: 8.00
+Produto: Lâmpada 2 polos: R$: 9.00
+Produto: Lâmpada H4: R$: 45.00
+================================================================ 
+Produto: Bateria Durex 60a: R$: 450.00
+Produto: Fita Isolante: R$: 10.00
+Produto: Conector 2 Vias DNI: R$: 20.00 (05/04/2023 20:56:20)
+Produto: Mouse: R$: 20.00 data - (05/04/2023 20:57:12 - hora)
+Produto: Boneco Mario: R$: 90.00, // data - (05/04/2023 20:57:57 - hora)
+Produto: Boneco Luigi: R$: 90.00, // data - (05/04/2023 20:58:31hs)
+Produto: Boneca Peach: R$: 120.00, // Data-(05/04/2023 20:59:33hs)
+Produto: Lâmpada 1 Polo, Preço: R$ 8.00, DataBo-(05/04/2023 21:39:10hs)
+Produto: Lâmpada 1 Polo, Preço: R$ 8.00, DataBo-(05/04/2023 21:39:16hs)
+Produto: Instalação Elétrica MonzaFarol Dianteiro, Preço: R$ 50.00, DataBo-(05/04/2023 21:39:30hs)
+Produto: Lâmpada 1 Polo, Preço: R$ 5.00, DataBo-(05/04/2023 21:43:08hs)
