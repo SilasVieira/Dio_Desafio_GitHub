@@ -1,7 +1,7 @@
 # Criando um sistema de Cadastro de peças
 import datetime
 
-with open(file='Cadastro_Itens.txt', mode='a', encoding='utf-8') as arquivo: # Criamos um arquivo vazio texto.txt
+with open(file='Cadastro_Itens.txt', mode='a', encoding='utf-8') as arquivo: # Criamos um arquivo vazio Cadastro_Itens.txt
     itens = {} # Criamos um dicionario vazio
     
 
