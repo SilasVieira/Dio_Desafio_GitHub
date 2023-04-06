@@ -21,7 +21,7 @@ with open(file='Cadastro_Itens.txt', mode='a', encoding='utf-8') as arquivo: # C
 
         timestamp = now.strftime("%d/%m/%Y %H:%M:%S") # Formata a data e hora em uma string legível
 
-        itens[f'Produto: {nome_item}'] = f'R$: {preco_item:.2f}, // DataBo-({timestamp}hs)' # Aqui fiz com que ao digitar apenas numero inteiro retorna numero flutuante ex: 10 vai retornar 10.00   
+        itens[f'Produto: {nome_item}'] = f'R$: {preco_item:.2f}, // Data-({timestamp}hs)' # Aqui fiz com que ao digitar apenas numero inteiro retorna numero flutuante ex: 10 vai retornar 10.00   
     
 
     for item, preco in itens.items(): # Fazemos o loop for percorrer item e preço no dicionario de itens
