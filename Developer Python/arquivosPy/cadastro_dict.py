@@ -1,5 +1,5 @@
 # Vamos tentar criar um dicionario em python
-with open(file='iventario.txt', mode='a', encoding='utf-8') as arquivo: # Criamos um arquivo vazio texto.txt
+with open(file='iventario.txt', mode='a', encoding='utf-8') as arquivo: # Criamos um arquivo vazio iventario.txt
 
     itens = {} # criamos um dicionario vazio que vai receber os valores das variaveis seguintes
 
